@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Advanced 2.5D Platformer Kit\Scripts\PlatformerAnimation.cs">
+    <Files>
+      <File FileName="Assets\Advanced 2.5D Platformer Kit\Scripts\PlatformerController.cs" Line="35" Column="1" />
+      <File FileName="Assets\Advanced 2.5D Platformer Kit\Scripts\PlatformerPhysics.cs" Line="19" Column="29" />
+      <File FileName="Assets\Advanced 2.5D Platformer Kit\Scripts\PlatformerAnimation.cs" Line="36" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
