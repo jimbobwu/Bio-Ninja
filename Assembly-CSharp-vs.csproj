@@ -53,6 +53,7 @@
      <Compile Include="Assets\Advanced 2.5D Platformer Kit\Scripts\PlatformerAnimation.cs" />
      <Compile Include="Assets\Advanced 2.5D Platformer Kit\Scripts\PlatformerController.cs" />
      <Compile Include="Assets\Advanced 2.5D Platformer Kit\Scripts\PlatformerPhysics.cs" />
+     <None Include="Assets\sky5X\README.txt" />
      <None Include="Assets\Advanced 2.5D Platformer Kit\Setup.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
